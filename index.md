@@ -22,3 +22,7 @@ var myVar = "Hello, world!";
        <ns12:idServicio>SrvScnGeneracionPaqueteDocumentos</ns12:idServicio>
 </ns2:servicio>
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] _This item is not complete_
